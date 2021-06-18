@@ -3,6 +3,7 @@ hello world	hot-fix修改
 hello world
 hello world
 hello world	master分支，测试冲突合并
+hello world	hof-fix分支，测试冲突合并
 hello world
 hello world
 hello world
